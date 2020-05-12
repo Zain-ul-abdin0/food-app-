@@ -12,7 +12,7 @@ export class IconsHeader extends Component {
             <View style={{backgroundColor:'red',flex:0.5}}>
   <ImageBackground source={require('../pics/Contact.png')} 
           style={{
-   height:290,width:'100%'}}
+   height:350,width:'100%'}}
            >
 <View style={{flex:0.5,flexDirection:'row',flexGrow:0.3}}>
 
